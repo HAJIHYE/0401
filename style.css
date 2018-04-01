@@ -1,13 +1,3 @@
 body{
     background-color: orange;
 }
-
-.left-box {
-   float: left;
-   width: 50%;
-}
-
-.right-box {
-   float: right;
-   width: 50%;
-}
